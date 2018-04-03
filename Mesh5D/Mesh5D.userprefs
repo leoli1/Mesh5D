@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/5D/RotationAnimation5D.cs">
+    <Files>
+      <File FileName="Assets/Scripts/4D/RotationAnimation.cs" Line="37" Column="43" />
+      <File FileName="Assets/Scripts/4D/Mesh4D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/4D/Transform4D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HelperClasses/Complex.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/4D/MeshRenderer4D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/4D/Camera4D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/MeshRenderer4DEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/5D/Mesh5D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HelperClasses/Vector5.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/5D/Transform5D.cs" Line="83" Column="39" />
+      <File FileName="Assets/Scripts/5D/MeshRenderer5D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/5D/Camera5D.cs" Line="1" Column="1" />
+      <File FileName="Assets/Editor/MeshRenderer5DEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/5D/RotationAnimation5D.cs" Line="33" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

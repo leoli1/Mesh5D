@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesh5D", "Assembly-CSharp.csproj", "{4717FB31-6E64-4CE9-2818-13B8FA4A8864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mesh5D", "Assembly-CSharp-Editor.csproj", "{67BE1BFC-E2A8-0D27-9B6A-6FEB0C920EE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4717FB31-6E64-4CE9-2818-13B8FA4A8864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4717FB31-6E64-4CE9-2818-13B8FA4A8864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4717FB31-6E64-4CE9-2818-13B8FA4A8864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4717FB31-6E64-4CE9-2818-13B8FA4A8864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67BE1BFC-E2A8-0D27-9B6A-6FEB0C920EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BE1BFC-E2A8-0D27-9B6A-6FEB0C920EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BE1BFC-E2A8-0D27-9B6A-6FEB0C920EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BE1BFC-E2A8-0D27-9B6A-6FEB0C920EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
